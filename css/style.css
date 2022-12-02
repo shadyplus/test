@@ -173,19 +173,19 @@ body{
 	quotes:'\201C''\201D''\2018''\2019';
 }
 .author-quote-wrap .author-photo.photo-a{
-	background-image:url(./img/man1.jpeg);
+	background-image:url(../img/man1.jpeg);
 }
 .author-quote-wrap .author-photo.photo-b{
-	background-image:url(./img/man2.jpeg);
+	background-image:url(../img/man2.jpeg);
 }
 .author-quote-wrap .author-photo.photo-c{
-	background-image:url(./img/man3.jpeg);
+	background-image:url(../img/man3.jpeg);
 }
 .author-quote-wrap .author-photo.photo-d{
-	background-image:url(./img/man4.jpg);
+	background-image:url(../img/man4.jpg);
 }
 .author-quote-wrap .author-photo.photo-e{
-	background-image:url(./img/man5.webp);
+	background-image:url(../img/man5.webp);
 }
 .author-quote-wrap .author-photo:before{
 	content:'';
